@@ -1,2 +1,2 @@
-# notes
+# Notes
 Some notes and useful information for development
